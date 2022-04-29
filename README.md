@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irshad0729
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning DSA and later I will learn MERN stack 
+- 🌱 I’m currently learning Node.js. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
